@@ -3786,7 +3786,6 @@ a.splash_interactive__window_link { color: #e6e6e6; }
 
 #page .media_list_subtitle { color: #949494; }
 
-/* DISABLE
 #page .sidebar_menu_list_item { color: #e6e6e6; }
 
 #page .sidebar_menu_list_item.is_active { background-color: #222; border-color: #222; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
@@ -3796,7 +3795,6 @@ a.splash_interactive__window_link { color: #e6e6e6; }
 #page .sidebar_menu_list_item:not(.is_active):hover { background-color: #222; border-color: #222; }
 
 #page .sidebar_menu_list_item a { color: #e6e6e6; }
-*/
 
 #page ul.breadcrumbs li { color: #949494; }
 
